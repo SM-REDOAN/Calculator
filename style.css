@@ -46,14 +46,13 @@ button {
   height: 60px;
   margin: 10px;
   border-radius: 50%;
-  background: transparent;
+  background: darkolivegreen;
   color: #ffffff;
   font-size: 20px;
-  box-shadow: -8px -8px 15px rgba(124, 180, 40, 0.474);
+  box-shadow: -8px -8px 15px rgba(81, 92, 66, 0.474);
   cursor: pointer;
 }
 
 .equalBtn {
   background-color: #fb7c14;
 }
-
